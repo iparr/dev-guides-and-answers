@@ -9,7 +9,7 @@ Here are some consistant moans and complaints about site SEO quality, which SEO 
 		Elements being displayed using elements, rather than text, means that they are inaccessible to those with disabilities. Much of the Castrol.com websites could arguably be in violation of the 2010 Equality Act (which replaced the old, but still good practice, Disability Discrimination Act).
 
 * Inefficient use of headings
-	* The element which should be <h1> on the page in the example is instead '<span class="page_text_heading1">'. Not leveraging heading tags correctly is incredibly poor practice as you will be missing out on a big SEO benefit.
+	* The element which should be <code><h1></code> on the page in the example is instead <code><span class="page_text_heading1"></code>. Not leveraging heading tags correctly is incredibly poor practice as you will be missing out on a big SEO benefit.
 	* Underused headlines - News items, for example, may not be header tags. These make really great headers.
 
 * Incorrectly used h-tags
@@ -48,7 +48,7 @@ Here are some consistant moans and complaints about site SEO quality, which SEO 
 * The name of the site isn't available as a heading level element
 
 * Blank title tags.
-	<title></title> is very bad SEO practice. A descriptive title is a lot stronger. Are these easy to implement by copywriters? They should be. If not, your CMS is not serving your needs.
+	<code><title></title></code> is very bad SEO practice. A descriptive title is a lot stronger. Are these easy to implement by copywriters? They should be. If not, your CMS is not serving your needs.
 
 * Page weight
 	* Code generally bloated and ugly. Google run 'pagespeed' for a reason.
