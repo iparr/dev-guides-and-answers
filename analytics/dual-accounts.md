@@ -34,7 +34,7 @@ In the above case, the account 'UA-XXXXXXXX-X' is the primary GA account. The se
 
 This means we have two accounts on every page. Simply using the above (replacing X and Y with valid GA IDs of course!) will ensure that page views are tracked accurately.
 
-It must be noted that tracking events when using techniques like:
+It must be noted that when tracking events using techniques like:
 
 
 	$('a[rel*="external"]', '#content').live('click', function(e) {
@@ -42,4 +42,4 @@ It must be noted that tracking events when using techniques like:
 	});
 
 
-Will result in these events being sent to the primary account. These events will not show in the secondary GA account, unless the above is modified.
+…the result will be that these events are sent to the primary account. These events will not show in the secondary GA account, unless the above is modified. Remember: it is still better to track event-type actions using this technique, rather than trying to register them as a page-view, as this may give a false impression of site traffic.
