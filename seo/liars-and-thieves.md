@@ -37,7 +37,7 @@ Here are some consistant moans and complaints about site SEO quality, which SEO 
 
 * No robots.txt, period.
 
-* Often the sitemap.xml does not include content from the 'news' section. This is due to lazily combining two websites together.
+* Often the sitemap.xml does not include content from the 'news' section. This is due to lazily combining two website generation tools together.
 
 * I'm not convinced that changing every item in the sitemap.xml to 'daily' makes things any better, if you're not actually updating daily (which most of these pages won't be), then i wouldn't cry wolf to Google. They may bite.
 
