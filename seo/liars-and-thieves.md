@@ -6,7 +6,7 @@ Here are some consistant moans and complaints about site SEO quality, which SEO 
 
 * Lovely headings like are used as images, not text.
 	* Accessibility concerns
-		Elements being displayed using elements, rather than text, means that they are inaccessible to those with disabilities. Much of the Castrol.com websites could arguably be in violation of the 2010 Equality Act (which replaced the old, but still good practice, Disability Discrimination Act).
+		Elements being displayed using elements, rather than text, means that they are inaccessible to those with disabilities. Much of the redactedlol.com websites could arguably be in violation of the 2010 Equality Act (which replaced the old, but still good practice, Disability Discrimination Act).
 
 * Inefficient use of headings
 	* The element which should be `<h1>` on the page in the example is instead `<span class="page_text_heading1">`. Not leveraging heading tags correctly is incredibly poor practice as you will be missing out on a big SEO benefit.
@@ -56,9 +56,9 @@ Here are some consistant moans and complaints about site SEO quality, which SEO 
 
 * Ability to update the site quickly
 	* Speed of deployment
-		The EDGE site (and any site we'd build in the future) is built on a solid CMS system (that has passed BP security testing). We are confident that using similar techniques will result in a page that 2020 can modify or roll-out much quicker than any other GIP-based page, whilst maintaining a higher level of quality.
+		The redactedlol.com site (and any site we'd build in the future) is built on a solid CMS system (that has passed BP security testing). We are confident that using similar techniques will result in a page that redactedagencylol can modify or roll-out much quicker than any other GIP-based page, whilst maintaining a higher level of quality.
 	* Non-developer access
-		The bulk of the content should be easily modified by those who are not web developers. EDGE has this ability, does GIP?
+		The bulk of the content should be easily modified by those who are not web developers. redactedlol.com has this ability, does this other CMS?
 
 * Duplicate pages
 	Is example.com and www.example.com the same page? Choose one, and redirect to the other!
