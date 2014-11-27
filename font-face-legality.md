@@ -12,6 +12,8 @@ The @font-face technique involves serving every web browser that visits the page
 
 The advantages of this method are huge, so if the font foundry does not allow us to use this technique, then it may be worth some renegotiation with them – especially when a font is made specifically for a company. This is simply the best technique to make a website that uses non-websafe (Tahoma, Arial, et al) fonts. I'm happy to bore you with further details sometime.
  
+![a cow](/http://siloamspringsvet.com/filerequest/1066)
+ 
 ## Why do we serve so many copies of the same font?
 
 Different browsers support different font-types.
