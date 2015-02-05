@@ -51,3 +51,4 @@ The following are more general 'Pros' and 'Cons' that are relevant to any type o
 * [A Stack Exchange thread where people working in UX discuss carousels](http://ux.stackexchange.com/questions/10312/are-carousels-effective) - generally highlights a negative view of carousels after testing.
 * [Brad Frost on Carousels](http://bradfrostweb.com/blog/post/carousels/) - the politics and how to make them slightly less awful.
 * [Jakob Nielsen’s Alertbox: September 14, 2013 - Designing Effective Carousels: Create a Fanciful Amusement, Not a House of Horrors](http://www.nngroup.com/articles/designing-effective-carousels/) -  The benefits to using 'Heros' instead and tips on navigation and auto-fowarding.
+* [8 UX Requirements for Designing a User-Friendly Homepage Carousel](http://baymard.com/blog/homepage-carousel): Baymard Institute - More advice on making carousels work in those cases where they are recommended (2015).
